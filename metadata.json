@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Remix: Pixel Quest Engine",
+  "description": "A top-down pixel adventure game engine with sprite animations, inventory systems, and conditional triggers.",
+  "requestFramePermissions": []
+}
